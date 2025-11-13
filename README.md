@@ -1,58 +1,90 @@
-# Hi there, I'm Antarpreet Singh Kauldhar 👋
+# Hi there, I'm Antarpreet Kauldhar 👋  
+**Founder & CTO – Jump Systems Inc. | Backend Engineer | Voice Automation Builder**
 
-## Backend Developer | Python Expert | 8+ Years Experience
-
-I'm a passionate backend developer specializing in building scalable, high-performance systems. Based in Red Deer, Alberta, Canada.
-
-### 🚀 What I Do
-
-- Build production-ready backend systems with Python, Django, and FastAPI
-- Optimize performance and reduce costs (recently achieved 200x performance improvement!)
-- Design and implement RESTful APIs
-- Deploy scalable applications on AWS
-- Write clean, maintainable code with comprehensive test coverage
-
-### 🛠️ Tech Stack
-
-**Backend:** Python, Django, Django REST Framework, FastAPI, Flask, Laravel (PHP)  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Cloud & DevOps:** AWS (EC2, RDS, S3), Docker, CI/CD, GitHub Actions  
-**APIs & Integration:** RESTful design, Twilio, Stripe, Google Calendar, OpenAI  
-**Testing:** PyTest, Unit Testing, Integration Testing (90%+ coverage)
-
-### 🔥 Featured Project
-
-**[bella_v3 - Appointment Booking System](https://github.com/antarpreetsinghk/bella_v3)**  
-Production-ready FastAPI system with impressive optimization story:
-- 🚀 200x performance improvement (2000ms → 10ms)
-- 💰 100% cost reduction ($150/month → $0)
-- ✅ 92% accuracy maintained
-- 🔴 Live on AWS: [View Demo](http://15.157.56.64:8000/docs)
-
-**Tech Stack:** FastAPI, PostgreSQL, Redis, Docker, AWS, Twilio, Google Calendar  
-**Key Achievement:** Optimized from LLM-based to regex-based extraction for massive performance gains
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/antarpreet-singh-kauldhar-634708121)
-- 📧 Email: antarpreetsinghk@gmail.com
-- 📍 Location: Red Deer, Alberta, Canada
-- 🔎 Status: **Open to Backend Developer opportunities in Alberta**
-
-### 💡 Recent Highlights
-
-- Built 5+ Django e-commerce platforms
-- Implemented Stripe payment integration across multiple projects
-- Deployed production systems on AWS with Docker
-- Expertise in performance optimization and cost reduction
-- Strong focus on test-driven development
+I’m a backend engineer and SaaS founder based in Red Deer, Alberta.  
+I build **AI-assisted, voice-driven booking and automation systems** for Canadian small businesses.
 
 ---
 
-**Currently seeking:** Backend Developer / Software Developer / Python Developer roles in Alberta (Calgary, Edmonton, Red Deer) or remote within Canada.
+## 🚀 What I'm Working On (2025–2026)
+### **Bella_v3 — 24/7 Voice Booking System for Canadian SMBs**
+A production-grade voice automation backend designed for:
+- Salons & spas  
+- Dentists & clinics  
+- Contractors & service businesses  
+- Solo professionals who miss calls  
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-Expert-green?style=flat&logo=django)
-![FastAPI](https://img.shields.io/badge/FastAPI-Expert-teal?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-Proficient-orange?style=flat&logo=amazon-aws)
+**High-level capabilities (public-safe):**
+- Handles appointment booking through voice  
+- Understands Canadian accents & phone formats  
+- Syncs with Google Calendar  
+- Runs on cost-optimized AWS infrastructure  
+- Designed for reliability, speed, and low operational cost  
+
+*(Full source code private for business reasons.)*
+
+---
+
+## 🧠 What I Do
+- Architect and build scalable backend systems (FastAPI, Django, Python)
+- Design voice automation pipelines (Twilio Voice, STT, booking flows)
+- Build production APIs with strong reliability & performance
+- Optimize systems for **speed, cost, and real-world constraints**
+- Deploy full cloud infrastructure on AWS (EC2, ECR, RDS, Redis, Docker)
+- Maintain enterprise-grade security, monitoring, and CI/CD
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Python, FastAPI, Django, DRF, Flask  
+**Cloud & DevOps:** AWS (EC2, ECR, S3, RDS), Docker, GitHub Actions  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Voice & Integrations:** Twilio Voice, Google Calendar, REST APIs  
+**Testing:** Pytest, Integration Testing, Load Testing, CI automation  
+
+---
+
+## 📌 Featured Work
+Although core business repositories are private, here are key areas of expertise:
+
+### **Backend Engineering**
+- Async Python, FastAPI, SQLAlchemy 2.0  
+- High-performance API design  
+- Real-time voice processing pipelines  
+- Multi-tenant booking & scheduling systems  
+
+### **Cloud Architecture**
+- Dockerized microservices  
+- Automated CI/CD with GitHub Actions  
+- AWS cost optimization  
+- Secure infrastructure with monitoring & alerting  
+
+### **Optimization & Performance**
+- Refactoring for 100–200x speed improvements  
+- Eliminating unnecessary API costs  
+- Efficient data extraction and validation  
+- High-concurrency async design  
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://linkedin.com/in/antarpreet-singh-kauldhar-634708121  
+- 📧 Email: antarpreetsinghk@gmail.com  
+- 📍 Based in Red Deer, Alberta, Canada  
+
+---
+
+## ⚡ About Me  
+- 8+ years of backend engineering experience  
+- Founder & CTO at Jump Systems Inc.  
+- Focused on voice automation, AI-assisted booking, and SMB tech  
+- Passionate about building production systems that **actually solve problems**  
+
+---
+
+### ⭐ Always open to networking with:
+- Small business owners  
+- SaaS founders  
+- Developers & cloud engineers  
+- Potential partners in automation / voice AI

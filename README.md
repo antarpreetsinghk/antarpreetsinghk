@@ -1,90 +1,65 @@
-# Hi there, I'm Antarpreet Kauldhar 👋  
-**Founder & CTO – Jump Systems Inc. | Backend Engineer | Voice Automation Builder**
+# 👋 Hi, I’m **Antarpreet Kauldhar**
 
-I’m a backend engineer and SaaS founder based in Red Deer, Alberta.  
-I build **AI-assisted, voice-driven booking and automation systems** for Canadian small businesses.
+**Backend Engineer | Founder & CTO – Jump Systems Inc. | Voice Automation Specialist**
 
----
-
-## 🚀 What I'm Working On (2025–2026)
-### **Bella_v3 — 24/7 Voice Booking System for Canadian SMBs**
-A production-grade voice automation backend designed for:
-- Salons & spas  
-- Dentists & clinics  
-- Contractors & service businesses  
-- Solo professionals who miss calls  
-
-**High-level capabilities (public-safe):**
-- Handles appointment booking through voice  
-- Understands Canadian accents & phone formats  
-- Syncs with Google Calendar  
-- Runs on cost-optimized AWS infrastructure  
-- Designed for reliability, speed, and low operational cost  
-
-*(Full source code private for business reasons.)*
+I build **production-grade backend and voice automation systems** for real-world businesses. With **8+ years of engineering experience**, I specialize in architecting systems that are **fast, scalable, cost-efficient, and built to run 24/7 under operational pressure**.
 
 ---
 
-## 🧠 What I Do
-- Architect and build scalable backend systems (FastAPI, Django, Python)
-- Design voice automation pipelines (Twilio Voice, STT, booking flows)
-- Build production APIs with strong reliability & performance
-- Optimize systems for **speed, cost, and real-world constraints**
-- Deploy full cloud infrastructure on AWS (EC2, ECR, RDS, Redis, Docker)
-- Maintain enterprise-grade security, monitoring, and CI/CD
+## 🚀 Portfolio Case Study  
+### **Bella Voice Booking Engine (2025–2026)**  
+*Private production system powering Jump Systems Inc.*
+
+A 24/7 **voice-driven booking platform** designed to help Canadian small businesses capture bookings from missed calls.
+
+**Industry Use Cases**
+- Salons & Spas  
+- Dental & Medical Clinics  
+- Contractors & Service Providers  
+- Solo Operators (call-to-book workflow)
+
+**Engineering Highlights**
+- 📞 Voice-enabled appointment scheduling  
+- 🗣 Accent-optimized STT (Canadian regions)  
+- 📅 Live Google Calendar synchronization  
+- ⚡ Built with **FastAPI + Async SQLAlchemy 2.0**  
+- ☁️ AWS (EC2, ECR, RDS, Redis, Docker)  
+- 🚀 Optimized for **low latency, high concurrency, and cost efficiency**
+
+> 🔐 *Source code is private (business-critical). Technical discussions available on request.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Core Competencies
 
-**Backend:** Python, FastAPI, Django, DRF, Flask  
-**Cloud & DevOps:** AWS (EC2, ECR, S3, RDS), Docker, GitHub Actions  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Voice & Integrations:** Twilio Voice, Google Calendar, REST APIs  
-**Testing:** Pytest, Integration Testing, Load Testing, CI automation  
-
----
-
-## 📌 Featured Work
-Although core business repositories are private, here are key areas of expertise:
-
-### **Backend Engineering**
-- Async Python, FastAPI, SQLAlchemy 2.0  
-- High-performance API design  
-- Real-time voice processing pipelines  
-- Multi-tenant booking & scheduling systems  
-
-### **Cloud Architecture**
-- Dockerized microservices  
-- Automated CI/CD with GitHub Actions  
-- AWS cost optimization  
-- Secure infrastructure with monitoring & alerting  
-
-### **Optimization & Performance**
-- Refactoring for 100–200x speed improvements  
-- Eliminating unnecessary API costs  
-- Efficient data extraction and validation  
-- High-concurrency async design  
+| Category | Expertise |
+|----------|-----------|
+| **Backend Architecture** | FastAPI, Django, Flask, Async Python |
+| **Database & Scaling** | PostgreSQL, MySQL, Redis, SQLAlchemy 2.0 |
+| **Cloud & DevOps** | AWS (EC2/ECR/RDS/S3), Docker, GitHub Actions |
+| **Voice Automation** | Twilio Voice, STT scripting, automation flows |
+| **Performance Optimization** | High-concurrency async design, 100–200× speed improvements |
+| **System Reliability** | CI/CD, test automation, monitoring, uptime strategies |
 
 ---
 
-## 📫 Connect With Me  
-- 💼 LinkedIn: https://linkedin.com/in/antarpreet-singh-kauldhar-634708121  
-- 📧 Email: antarpreetsinghk@gmail.com  
-- 📍 Based in Red Deer, Alberta, Canada  
+## 📂 Public Repositories (Portfolio Projects)
+
+| Repository | Purpose | Stack |
+|------------|----------|-------|
+| *(Coming Soon)* | Portfolio backend demo project | FastAPI, PostgreSQL |
+| *(Automation Toolkit)* | DevOps and infrastructure scripts | Python, Docker |
+| *(Optimization Scripts)* | Data extraction & validation utilities | Python |
+
+*More repos will be added shortly as part of portfolio roadmap.*
 
 ---
 
-## ⚡ About Me  
-- 8+ years of backend engineering experience  
-- Founder & CTO at Jump Systems Inc.  
-- Focused on voice automation, AI-assisted booking, and SMB tech  
-- Passionate about building production systems that **actually solve problems**  
+## 🧠 What I Build
 
----
-
-### ⭐ Always open to networking with:
-- Small business owners  
-- SaaS founders  
-- Developers & cloud engineers  
-- Potential partners in automation / voice AI
+```text
+✔ Scalable backend systems
+✔ Voice automation & call-driven workflow engines
+✔ High-performance microservice APIs
+✔ Full AWS infrastructure deployment
+✔ Production-ready systems built around real-world constraints

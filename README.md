@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Antarpreet Kauldhar**
 
-**Backend Engineer | Founder & CTO – Jump Systems Inc. | Voice Automation Specialist**
+**Backend Engineer | Voice Automation Specialist**
 
 I build **production-grade backend and voice automation systems** for real-world businesses. With **8+ years of engineering experience**, I specialize in architecting systems that are **fast, scalable, cost-efficient, and built to run 24/7 under operational pressure**.
 

@@ -57,4 +57,4 @@ As the industry moves toward autonomous "Smart Farms," I provide the backend sta
 ## 📫 Connect with Me
 - 📍 **Location:** Red Deer, Alberta, Canada (Open to local & remote opportunities)
 - 🎓 **Education:** Agriculture Technology @ Olds College (Precision Ag Specialist)
-- 💼 **LinkedIn:** [linkedin.com/in/antarpreet-kauldhar)]
+- 💼 **LinkedIn:** [linkedin.com/in/antarpreet-kauldhar](https://linkedin.com/in/antarpreet-kauldhar)

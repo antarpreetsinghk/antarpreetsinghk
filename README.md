@@ -1,33 +1,32 @@
 # 👋 Hi, I’m **Antarpreet Kauldhar**
 
-**Backend Architect | High-Efficiency Systems | Agri-Tech Specialist**
+**Principal Backend Architect | High-Performance Systems | Industrial & Agri-Tech Specialist**
 
-I bridge the gap between complex software engineering and the physical world of **Precision Agriculture**. With **8+ years of experience**, I specialize in building backend systems where every millisecond and every dollar of infrastructure spend counts.
-
-My core philosophy is **Progressive Fallback**: prioritizing lean, native logic to achieve maximum performance and zero waste before layering in complex AI/LLM dependencies.
+I am a Senior Backend Engineer based in **Alberta, Canada**, specializing in building high-concurrency, cost-optimized systems for industrial and service-sector applications. With over **8 years of experience**, I focus on "Lean Logic"—engineering native, high-speed Python architectures that outperform off-the-shelf AI models in speed and cost.
 
 ---
 
-## 🚜 Agri-Tech & Precision Agriculture Focus
-As the industry moves toward autonomous "Smart Farms," I provide the backend stability required for real-time operations:
-- **Low-Latency Architecture:** Optimizing data pipelines for real-time sensor and equipment feedback.
-- **Infrastructure Sustainability:** Reducing operational costs to make digital farming affordable for producers.
-- **Reliability:** Engineering "always-on" systems for critical seasonal windows (planting/harvesting).
+## 🚀 Featured Engineering Case Study
+### **VoiceFlow AI: Enterprise Voice Booking Backend**
+*Production-grade async backend optimized for sub-10ms response times.*
+
+**The Challenge:** Standard LLM-based extraction created a 2-second lag and cost $150/month, making real-time voice interaction frustrating and expensive for SMBs.
+
+**The Solution:** I re-engineered the extraction pipeline using optimized regex patterns and a "Progressive Fallback" model, achieving:
+- ⚡ **200x Speed Increase:** Response latency dropped from **2,000ms → 10ms**.
+- 💰 **100% Cost Reduction:** Eliminated monthly API fees ($150 → $0) through deterministic logic.
+- 🏗️ **Enterprise Stack:** FastAPI, Redis, PostgreSQL (SQLAlchemy 2.0), and Docker.
+- 🛡️ **Production Ready:** 90%+ test coverage, automated CI/CD via GitHub Actions, and deployed on ARM64 AWS Graviton2.
+
+[**Explore the Code & Architecture Guide**](#) | [**Read the Full Optimization Study**](#)
 
 ---
 
-## 🚀 Featured Case Study: **Bella Voice Booking Engine**
-*Production Voice-AI Platform | Performance Optimized (2025–2026)*
-
-**The Problem:** Small businesses and service providers lose significant revenue to missed calls but can't afford the latency or cost of standard LLM-based voice bots.
-
-**The Solution:** A high-concurrency voice engine built on the **Progressive Fallback** model.
-- ⚡ **200x Speed Boost:** Optimized core logic to reduce response latency from **2000ms → 10ms**.
-- 💰 **100% Cost Efficiency:** Eliminated monthly AI API costs ($150/mo → $0) by replacing redundant LLM calls with lean Python logic.
-- 🗣 **Real-World Integration:** Accent-optimized STT for Canadian regions with live Google Calendar sync.
-- 🛠 **Stack:** FastAPI, Async SQLAlchemy 2.0, Redis, AWS (EC2, ECR, RDS), Docker.
-
-> 🔐 *Source code is private (business-critical). Technical architecture discussions available on request.*
+## 🚜 Industrial & Agri-Tech Focus
+I specialize in the backend infrastructure required for Alberta's **Precision Agriculture** and **Industrial IoT** sectors:
+- **Spatial Data Engines:** Leveraging **PostGIS** to index and visualize 4TB+ of geospatial sensor data.
+- **Operational ROI:** Designing systems to mitigate "Ghost Idling" and recover operational capital (targeting $74k/year for 20-asset fleets).
+- **Reliability:** Engineering "Always-On" systems for critical seasonal windows (Planting/Harvesting).
 
 ---
 
@@ -35,26 +34,35 @@ As the industry moves toward autonomous "Smart Farms," I provide the backend sta
 
 | Category | Tools & Expertise |
 |----------|-----------|
-| **Backend Architecture** | FastAPI, Django, Flask, Async Python, RESTful Design |
-| **Database & Scaling** | PostgreSQL, MySQL, Redis, SQLAlchemy 2.0, Data Modeling |
-| **Cloud & DevOps** | AWS (EC2/ECR/RDS/S3), Docker, GitHub Actions, CI/CD |
-| **Agri-Tech Skills** | Precision Agriculture Logic, Real-time Data Streaming, Cost-Optimization |
-| **Performance** | **Progressive Fallback Strategy**, High-concurrency design, Latency Reduction |
+| **Backend** | **Python (FastAPI, Django, Asyncio)**, RESTful API Design, System Architecture |
+| **Data Layer** | **PostgreSQL (PostGIS)**, Redis, SQLAlchemy 2.0, Data Modeling |
+| **Cloud/DevOps** | **AWS (EC2/ECR/RDS/S3)**, Docker, GitHub Actions, Nginx |
+| **Testing** | **Pytest (Async)**, Load Testing, Bandit (Security), 90%+ Coverage |
+| **Specialized** | **Lean Logic Framework**, Geospatial Ingestion, Cost Optimization |
 
 ---
 
-## 📂 Public Portfolio Projects
-*Demonstrating production-ready engineering for the Agri-Tech sector.*
+## 📂 Selected Technical Projects
 
-| Repository | Focus | Tech Stack |
-|------------|-------|------------|
-| [**Agri-Data-Pipeline**](#) | *High-speed sensor data ingestion & validation demo* | FastAPI, Redis |
-| [**Lean-Automation-Toolkit**](#) | *DevOps scripts for cost-effective AWS infrastructure* | Python, Docker |
-| [**Optimization-Benchmarks**](#) | *Comparison of native logic vs. LLM for common tasks* | Python, FastAPI |
+### [**Immigration Management System**](#) 
+*Enterprise Lead & Application Tracker | Django & PostgreSQL*
+- Engineered a multi-branch system for tracking high-volume immigration leads and formal applications.
+- Implemented automated progress visualization and dynamic time estimation logic for application lifecycles.
+
+### [**Taggar Associates Blog & Media Hub**](#) 
+*Dynamic Content Platform | Django & Bootstrap 4*
+- Developed a professional insights platform featuring rich media embedding and SEO-optimized sitemaps.
+- Implemented secure administrative authentication and SMTP-integrated inquiry handling.
 
 ---
 
-## 📫 Connect with Me
-- 📍 **Location:** Red Deer, Alberta, Canada (Open to local & remote opportunities)
-- 🎓 **Education:** Agriculture Technology @ Olds College (Precision Ag Specialist)
+## 📈 Production Metrics & Quality Standards
+- **Performance:** Consistently targeting <100ms P95 latency for internal API services.
+- **Security:** Integrated automated vulnerability scanning (Bandit/Safety) into all CI/CD pipelines.
+- **Sustainability:** Focused on ARM64 architecture and container optimization to reduce infrastructure "Cloud Tax."
+
+---
+
+## 📫 Let's Build a Faster Future
+- 📍 **Location:** Red Deer, Alberta (Open to Local/Hybrid/Remote)
 - 💼 **LinkedIn:** [linkedin.com/in/antarpreet-kauldhar](https://linkedin.com/in/antarpreet-kauldhar)

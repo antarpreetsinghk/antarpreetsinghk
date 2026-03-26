@@ -2,7 +2,7 @@
 
 **Software Developer | Backend Specialist | Python (FastAPI, Django) & PostGIS**
 
-I am a Backend Engineer based in **Red Deer, Alberta**, focused on building high-performance, cost-effective systems for the Industrial, Agri-Tech, and Logistics sectors. With over **8 years of experience**, I specialize in "Lean Logic"—engineering optimized Python architectures that deliver sub-10ms response times and eliminate unnecessary "Cloud Tax."
+I am a Backend Engineer based in **Alberta**, focused on building high-performance, cost-effective systems for the Industrial, Agri-Tech, and Logistics sectors. With over **8 years of experience**, I specialize in "Lean Logic"—engineering optimized Python architectures that deliver sub-10ms response times and eliminate unnecessary "Cloud Tax."
 
 ---
 

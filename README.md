@@ -41,4 +41,3 @@ CategoryToolsBack endPython (Django, FastAPI, asyncio), REST APIs, SQLAlchemy 2.
 📫 Contact
 
 📍 Calgary, Alberta — open to local, hybrid, and remote roles
-📧 antarpreetsinghk@gmail.com
